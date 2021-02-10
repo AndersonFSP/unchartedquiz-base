@@ -1,0 +1,16 @@
+{
+    "title": "Titulo",
+    "description": "Desc",
+    "bg": "https://images.alphacoders.com/673/673736.jpg",
+    "theme": {
+      "colors": {
+        "primary": "#1c2566",
+        "secondary": "#283593",
+        "mainBg" : "#007bb2",
+        "contrastText": "#ffffff",
+        "wrong": "#FF5722",
+        "success": "#4CAF50"
+      },
+      "borderRadius": "4px"
+    }
+}
